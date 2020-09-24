@@ -1,1 +1,1 @@
-# some files for MCMC study group 
+# MCMC example 
